@@ -9,7 +9,7 @@ body {
     line-height: 1.6;
     background-color: #1C1C1E;
     color: #FFF;
-    scroll-behavior: smooth; /* Smooth scroll for the entire page */
+    scroll-behavior: smooth; 
 }
 
 .container {
